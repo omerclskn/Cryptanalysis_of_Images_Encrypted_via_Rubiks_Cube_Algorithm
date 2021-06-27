@@ -1,5 +1,7 @@
 # Cryptanalysis_of_Images_Encrypted_via_Rubiks_Cube_Algorithm
 
+RUBİK KÜPÜ PRENSİBİ İLE ŞİFRELENEN GÖRÜNTÜLERİN KRİPTOANALİZİ
+
 Projemiz şifreleme ve deşifreleme işlemleri yapmaktadır. Bu işlemlerin 
 kaynak kod dosyası EncryptandDecrypt.py dir.
 
