@@ -5,7 +5,7 @@ RUBİK KÜPÜ PRENSİBİ İLE ŞİFRELENEN GÖRÜNTÜLERİN KRİPTOANALİZİ
 Projemiz şifreleme ve deşifreleme işlemleri yapmaktadır. Bu işlemlerin 
 kaynak kod dosyası EncryptandDecrypt.py dir.
 
-Kalan 3 dosya kriptoanaliz için saldırı, çözümleme ve analiz 
+Kalan 3 kod dosyası kriptoanaliz için saldırı, çözümleme ve analiz 
 adımlarını içermektedir.
 
 Projenin 4 ana kaynak kodu bulunmaktadır.
