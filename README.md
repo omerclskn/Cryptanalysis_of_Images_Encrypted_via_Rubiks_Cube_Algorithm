@@ -1,4 +1,4 @@
-# Cryptanalysis_of_Images_Encrypted_via_Rubiks_Cube_Algorithm
+# Cryptanalysis of Images Encrypted via Rubiks Cube Algorithm
 
 Bu proje Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bilgisayar Ara Proje Kapsamında Gerçekleştirilmiştir.
 
