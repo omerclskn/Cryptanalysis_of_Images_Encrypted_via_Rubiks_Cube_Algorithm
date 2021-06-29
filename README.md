@@ -25,4 +25,4 @@ görüntünün olması ve kod içerisinde dizinin girilmesi gerekmektedir.
 uygulanmış şifrelenmiş görüntünün dizini ve şifrelenme aşamasında
 üretilen KR ve KC dizilerinin kod içerisine girilmesi gerekmektedir.
 
-Codes will be added soon...
+© Bu projenin bütün hakları Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü’ne aittir.
